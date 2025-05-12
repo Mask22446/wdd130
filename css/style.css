@@ -3,3 +3,19 @@ div{
     top: 50%;
     left: 50%;
 }
+
+main{
+    max-width: 1080px;
+}
+
+aside{
+    text-align: center;
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+    background-color: bisque;
+    color: #333;
+    align-items: center;
+    justify-content: center;
+}
